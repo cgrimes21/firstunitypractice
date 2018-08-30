@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - player
+  - item_pickup
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BlockingLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 3009935065
+    locked: 0
+  - name: objects
+    uniqueID: 2901119915
+    locked: 0
+  - name: objects_interactable
+    uniqueID: 3164113755
+    locked: 0
+  - name: player
+    uniqueID: 1350915829
+    locked: 0
+  - name: playerEquip
+    uniqueID: 3052181107
+    locked: 0
+  - name: effects
+    uniqueID: 3920850393
+    locked: 0
